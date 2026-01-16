@@ -1,1 +1,8 @@
-ok
+{
+  "status": "success",
+  "auth": "true",
+  "code": 200,
+  "expiry_date": "2026-03-16",
+  "days_left": "60",
+  "server_time": "2026-01-16 07:15:00"
+}
